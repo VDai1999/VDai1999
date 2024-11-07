@@ -1,9 +1,5 @@
 # Hi there 👋
 
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
 
 ### <div align="center">I'm Dai Dong. I just graduated from the University of Wollongong with a Master's in Computer Science 🚀</div>  
   
